@@ -1,0 +1,3 @@
+[submodule "ExpenseApp-backend-api"]
+	path = ExpenseApp-backend-api
+	url = https://github.com/niraj23/ExpenseApp-backend-api
