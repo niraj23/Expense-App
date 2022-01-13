@@ -1,7 +1,7 @@
-# Expense Tracker
-![](./public/images/home.png)
+# Expense App
+![](https://imgur.com/a/hzIRpI2)
 ## Live Link
-[Get started with Expense Tracker](https://redux-expense-tracker.netlify.app/)
+[Check out the App](https://expense-915b1.web.app/)
 ## Objectives
 - Data management in front-end components
 - Handling lifecycle methods and reusable logic with React Hooks
