@@ -1,5 +1,5 @@
 # Expense App
-![](https://imgur.com/a/hzIRpI2)
+![](https://i.imgur.com/TblZg3D.jpeg)
 ## Live Link
 [Check out the App](https://expense-915b1.web.app/)
 ## Objectives
