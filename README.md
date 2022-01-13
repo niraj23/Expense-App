@@ -16,9 +16,6 @@
 
 ## Features
  A Ruby on Rails app with a React Frontend that allows users to keep track of expenses. Also integrated Crypto Currency widget with Alan AI and a custom script for users to find prices of any Crypto, along with other custom scripts Users are authenticated and able to access the app. The home page allows for creating and managing categories of expenses. Clicking on Track expenses in any category opens up a page with information about expenses in a given list. Expenses can be added, edited and deleted as desired. The Reports page shows the total outcome of a users expenses, by categories, in a doughnut chart.
-_Visualisation of outcomes with Chart.js_
-
-![](./public/images/reports.png)
 
 
 ## Built With
