@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8eac371.chunk.css",
-    "main.js": "/static/js/main.0c4db6bc.chunk.js",
-    "main.js.map": "/static/js/main.0c4db6bc.chunk.js.map",
+    "main.css": "/static/css/main.3a09cabb.chunk.css",
+    "main.js": "/static/js/main.09dadc65.chunk.js",
+    "main.js.map": "/static/js/main.09dadc65.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fd4ec896.js",
     "runtime-main.js.map": "/static/js/runtime-main.fd4ec896.js.map",
     "static/css/2.dac9d47e.chunk.css": "/static/css/2.dac9d47e.chunk.css",
-    "static/js/2.b814ab82.chunk.js": "/static/js/2.b814ab82.chunk.js",
-    "static/js/2.b814ab82.chunk.js.map": "/static/js/2.b814ab82.chunk.js.map",
+    "static/js/2.c34aba36.chunk.js": "/static/js/2.c34aba36.chunk.js",
+    "static/js/2.c34aba36.chunk.js.map": "/static/js/2.c34aba36.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.dac9d47e.chunk.css.map": "/static/css/2.dac9d47e.chunk.css.map",
-    "static/css/main.b8eac371.chunk.css.map": "/static/css/main.b8eac371.chunk.css.map",
-    "static/js/2.b814ab82.chunk.js.LICENSE.txt": "/static/js/2.b814ab82.chunk.js.LICENSE.txt",
+    "static/css/main.3a09cabb.chunk.css.map": "/static/css/main.3a09cabb.chunk.css.map",
+    "static/js/2.c34aba36.chunk.js.LICENSE.txt": "/static/js/2.c34aba36.chunk.js.LICENSE.txt",
     "static/media/Video.13f507ef.mp4": "/static/media/Video.13f507ef.mp4",
     "static/media/LogIn.css": "/static/media/desola-lanre-ologun-zYgV-NGZtlA-unsplash.149dd561.jpg",
     "static/media/holly.113e8e06.jpeg": "/static/media/holly.113e8e06.jpeg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.fd4ec896.js",
     "static/css/2.dac9d47e.chunk.css",
-    "static/js/2.b814ab82.chunk.js",
-    "static/css/main.b8eac371.chunk.css",
-    "static/js/main.0c4db6bc.chunk.js"
+    "static/js/2.c34aba36.chunk.js",
+    "static/css/main.3a09cabb.chunk.css",
+    "static/js/main.09dadc65.chunk.js"
   ]
 }
